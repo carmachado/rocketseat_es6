@@ -1,4 +1,4 @@
-//Exercise 1
+//Exercise 1 - https://skylab.rocketseat.com.br/api/files/1566499229316.pdf
 class Usuario {
     constructor(email, password) {
         this.email = email;
